@@ -87,4 +87,4 @@ deploy:
   type: git
   repo: https://github.com/idealife/idealife.github.io.git
   branch: master
-  message: update blog at {{ now('YYYY-MM-DD HH:mm:ss') }}
+  message: update the blog

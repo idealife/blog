@@ -1,40 +1,17 @@
 ---
 title: Hello World
-categories: 关于
-tags: [标签1,标签2,标签3]
+date: 2015-10-01 12:41:26
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
 
-### Create a new post
+## Hello Github
 
-``` bash
-$ hexo new "My New Post"
-```
+Github是一个神奇的网站，简直就是一个超级大的宝库，
+接触越多就越能发现它的价值！
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+因此在这个平台上分享也是一件非常有意义的事情！
+Leg’s go!
 
-### Run server
-<!--more-->
-``` bash
-$ hexo server
-```
+* * *
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+在CSDN断断续续经营了几年的[博客](http://blog.csdn.net/qustdong/)最终还是会被现有的Github Pages所取代,虽然它的SEO已经做的非常不错了，但是这几年来的排版一直让我很痛苦。最近也增加了Markdown语法的支持，那也无法阻止我来到这片干净的乐土！
