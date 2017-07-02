@@ -85,6 +85,12 @@ feed:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/idealife/idealife.github.io.git
-  branch: master
+  repo:
+    github: https://github.com/idealife/idealife.github.io.git,master
+    coding: https://git.coding.net/superdong/superdong.coding.me.git,master
+  #branch: master
   message: update the blog
+  # type: git
+  # repo: https://git.coding.net/superdong/superdong.coding.me.git
+  # branch: master
+  # message: update the blog
